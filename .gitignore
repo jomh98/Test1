@@ -1,0 +1,6 @@
+data.json
+data.corrupt-*.json
+.data-*.tmp
+__pycache__/
+.venv/
+.playwright-mcp/
